@@ -8,9 +8,8 @@
 
 
 
-//#include <iostream>
+
 #include "string"
-//#include "fstream"
 #include "vector"
 #include "function.h"
 
@@ -20,8 +19,8 @@ using namespace std;
 int main() {
     string source = "P:\\programing\\home_works\\home_work_for_lesson_17\\variable_name\\name.txt";
     string output = "P:\\programing\\home_works\\home_work_for_lesson_17\\variable_name\\output file.txt";
-    char replacement = '_', delimiter = ' ', delimiter1 = '-';
-    vector<string> rewrite = Parcer(source, replacement, delimiter, delimiter1);
+    char replacement = '_';
+    vector<string> rewrite = Parcer(source, replacement);
     Rewrite(output, rewrite);
     return 0;
 }

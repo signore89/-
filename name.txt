@@ -2,4 +2,5 @@ good value;
 variable name;
 text-value;
 repeating-values;
-positive numbers.
+positive numbers;
+hron nicel.
