@@ -1,0 +1,3 @@
+P:/programing/home_works/home_work_for_lesson_17/variable_name/cmake-build-debug/CMakeFiles/variable_name.dir
+P:/programing/home_works/home_work_for_lesson_17/variable_name/cmake-build-debug/CMakeFiles/edit_cache.dir
+P:/programing/home_works/home_work_for_lesson_17/variable_name/cmake-build-debug/CMakeFiles/rebuild_cache.dir
