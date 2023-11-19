@@ -1,0 +1,5 @@
+good_value;
+variable_name;
+text_value;
+repeating_values;
+positive_numbers.

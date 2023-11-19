@@ -1,0 +1,5 @@
+good value;
+variable name;
+text-value;
+repeating-values;
+positive numbers.
